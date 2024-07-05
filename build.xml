@@ -5,7 +5,8 @@
 		</fileset>
 	</path>
 
-
+//Documentation for this property
+	
 	<target name="clean">
 		<delete dir="build" />
 	</target>
